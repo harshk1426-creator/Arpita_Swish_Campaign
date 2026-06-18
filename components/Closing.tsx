@@ -103,21 +103,6 @@ export default function Closing() {
         </motion.div>
       </div>
 
-      {/* Swish brand footer image */}
-      <motion.div
-        className="relative mt-20 w-full"
-        initial={{ opacity: 0, y: 20 }}
-        animate={inView ? { opacity: 1, y: 0 } : {}}
-        transition={{ duration: 0.9, delay: 0.9 }}
-      >
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src="/Swish_pic.png"
-          alt="Swish"
-          className="w-full object-cover rounded-2xl"
-          style={{ maxHeight: '320px', objectPosition: 'center' }}
-        />
-      </motion.div>
     </section>
   )
 }
