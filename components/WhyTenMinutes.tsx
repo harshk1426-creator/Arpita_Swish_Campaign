@@ -68,7 +68,7 @@ export default function WhyTenMinutes() {
             </div>
 
             <p className="font-inter text-swish-charcoalmid text-xl leading-relaxed">
-              Zomato, Swiggy — they compete on time. Delivery is a commodity. Swish competes on taste. That&apos;s the brand.
+              Zomato, Swiggy - they compete on time. Delivery is a commodity. Swish competes on taste. That&apos;s the brand.
             </p>
 
             <p className="font-inter text-swish-charcoalmid text-xl leading-relaxed">

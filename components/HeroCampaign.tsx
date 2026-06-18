@@ -68,7 +68,7 @@ export default function HeroCampaign() {
           transition={{ duration: 0.7, delay: 0.25 }}
         >
           <p className="font-inter text-swish-charcoalmid text-xl leading-relaxed">
-            We&apos;re not competing with Zomato or Swiggy on delivery. We&apos;re killing the hesitation moment — the second someone thinks &ldquo;should I order?&rdquo; we answer before they finish the thought.
+            We&apos;re not competing with Zomato or Swiggy on delivery. We&apos;re killing the hesitation moment - the second someone thinks &ldquo;should I order?&rdquo; we answer before they finish the thought.
           </p>
           <p className="font-inter text-swish-charcoalmid text-xl leading-relaxed">
             The campaign is built around confidence. Not speed. When you know the food is good, you don&apos;t second-guess. You just order.

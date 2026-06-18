@@ -37,7 +37,7 @@ export default function Positioning() {
           transition={{ duration: 1, delay: 0.2 }}
         >
           <p className="font-inter text-[#2BDE73]/60 text-lg md:text-xl mb-6" style={{ letterSpacing: '0.05em' }}>
-            — The line that drives everything —
+            - The line that drives everything -
           </p>
           <h2 className="font-fraunces italic font-black text-white leading-tight" style={{ fontSize: 'clamp(36px, 6vw, 80px)' }}>
             &ldquo;Fast gets you the order.{' '}

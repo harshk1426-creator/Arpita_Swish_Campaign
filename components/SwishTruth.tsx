@@ -43,7 +43,7 @@ export default function SwishTruth() {
               Speed gets you the <span style={{ color: '#2BDE73' }}>first order.</span>
             </h2>
             <p className="font-inter text-white/50 text-lg mt-6 leading-relaxed">
-              Curiosity cracks the door open. &ldquo;Food in ten minutes?&rdquo; gets people to try — once.
+              Curiosity cracks the door open. &ldquo;Food in ten minutes?&rdquo; gets people to try - once.
             </p>
           </motion.div>
 

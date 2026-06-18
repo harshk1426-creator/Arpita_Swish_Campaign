@@ -16,7 +16,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Order Already. — Arpita Ambekar × Swish',
+  title: 'Order Already. - Arpita Ambekar × Swish',
   description: 'A brand pitch for the Brand Manager role at Swish, by Arpita Ambekar.',
 }
 
