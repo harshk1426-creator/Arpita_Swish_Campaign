@@ -70,13 +70,15 @@ export default function Closing() {
             </div>
             <div className="mb-10">
               <p className="font-inter text-white/40 text-xs tracking-widest uppercase mb-2">Contact</p>
-              <a href="mailto:arpita.ambekar@email.com" className="font-inter text-white text-lg flex items-center gap-2 group">
+              <a href="mailto:arpita_ambekar@pg26.mesaschool.co" className="font-inter text-white text-lg flex items-center gap-2 group">
                 <Mail className="w-4 h-4 text-white/50 group-hover:text-[#2BDE73] transition-colors" />
-                arpita.ambekar@email.com
+                arpita_ambekar@pg26.mesaschool.co
               </a>
             </div>
             <motion.a
-              href="mailto:arpita.ambekar@email.com"
+              href="https://www.linkedin.com/in/-arpitaambekar/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-8 py-4 rounded-full font-inter font-semibold text-base transition-all"
               style={{ background: '#2BDE73', color: '#1A1A1A' }}
               whileHover={{ scale: 1.03 }}
@@ -97,7 +99,7 @@ export default function Closing() {
           <p className="font-fraunces italic text-white/30 text-xl md:text-2xl">
             &ldquo;Fast gets you the order. Taste gets you the repeat.&rdquo;
           </p>
-          <p className="font-inter text-white/20 text-sm">© 2024 · Arpita Ambekar</p>
+          <p className="font-inter text-white/20 text-sm">© 2026 · Arpita Ambekar</p>
         </motion.div>
       </div>
     </section>
